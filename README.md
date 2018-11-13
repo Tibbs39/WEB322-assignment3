@@ -1,6 +1,6 @@
 # WEB322 - Assignment 3
 
-This project adds on to the demonstration of Node.js found in [assigment 2](https://github.com/Tibbs39/WEB322-assignment2). 
+This project adds on to the demonstration of Node.js found in [assignment 2](https://github.com/Tibbs39/WEB322-assignment2). 
 
 The following is demonstrated with this project:
 - Routing GET requests containing queries and returning requested data. 
