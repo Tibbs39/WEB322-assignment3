@@ -34,6 +34,4 @@ This returns the result of searching for an employee by their employee number. F
 
 *Please note that these queries cannot be chained together.*
 
-This webapp was uploaded to heroku and can be viewed here: [https://shrouded-badlands-69336.herokuapp.com/](https://shrouded-badlands-69336.herokuapp.com/)
-
 *My intention with uploading school assignments on GitHub is merely to build a portfolio of my work.* **_Please do not plagiarize._**
